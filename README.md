@@ -1,2 +1,10 @@
 # Projeto-Integrador-2etapa
-Repositório reservado para documentação do Projeto Integrador Senac 
+Repositório reservado para documentação do Projeto Integrador Senac.
+
+Alunos:
+BRUNO DE OLIVEIRA CONTAIFER 
+CINARA DOS SANTOS LOPES FARIAS 
+DAVID QUIROGA GALHARDO BUENO DA SILVA 
+GUSTAVO FONSECA DA SILVA 
+JONATHAN CARLETTO JESUS 
+JORGE LUIZ CHIOZZINI JUNIOR
